@@ -1,0 +1,9 @@
+.home{
+      display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin: 2rem;
+}
+.card-img-top{
+  max-height: 305px;
+}
